@@ -1,0 +1,40 @@
+In shell, folosind \ evit semnificatia aparte a unui anumit caracter.
+The correct answer is 'True'.
+Pentru a muta un director intr-un alt director apelam comanda "movedir d1 d2".
+The correct answer is 'False'.
+Memoria cache are o capacitate de memorare foarte mare, dar timpul de accesare este foarte lung
+The correct answer is 'False'.
+Reincarcarea sistemului de operare este o metoda de iesire din impas.
+The correct answer is 'True'.
+Comanda "awk '/[Mm]aria/{print}' /etc/passwd" cauta toate cuvintele maria care incep cu M sau m?
+The correct answer is 'True'.
+awk  - trateaza pe rand cate o linie din fisierele de intrare si pentru fiecare executa instructiuni atunci cand conditia corespunzatoare este adevarata.
+The correct answer is 'True'.
+Comanda "sed s/^a/b/g fis" schimba a cu b doar la inceputul liniei din fisier?
+The correct answer is 'True'.
+Pentru folosirea alocarii dinamice este nevoie de un hardware mai performat decat in cazul alocarii statice de memorie.
+The correct answer is 'False'.
+Cand un proces este in starea "ReadySwapped" procesul este gata pentru a fi executat, dar pentru a intra in ciclul de executie, acesta trebuie mai intai sa intre in starea ReadyMemory.
+The correct answer is 'True'.
+find test -name "[a-z]"  -  afiseaza acele fisiere sau directoare din directorul "test" a caror nume e format dintr-o litera.
+The correct answer is 'True'.
+Sistemul de fisiere este componenta care organizeaza si gestioneaza toate datele care se vehiculeaza in sistem.
+The correct answer is 'True'.
+Pentru terminarea procesului curent, Linux pune la dispoziie apelul de sistem close.
+The correct answer is 'False'.
+Limbajul shell-ului nu contine variabile.
+The correct answer is 'False'.
+echo "1 - 1" | tr "-" "+"   - afiseaza 2.
+The correct answer is 'False'.
+joe, pico, nano, more sunt editoare de text.
+The correct answer is 'False'.
+Comanda "du" ne arata recursiv dimensiunile directoarelor si fisierlor continute in directorul dat ca si parametru?
+The correct answer is 'True'.
+Canalul de I/O este o componenta care faciliteaza comunicarea intre procesorul central (CPU) si periferice.
+The correct answer is 'True'.
+Specificarea generica se face specificand calea incepand de la directorul radacina.
+The correct answer is 'False'.
+sed s/e/E/g fis1 &gt; rez  -  redirecteaza output-ul pe ecran.
+The correct answer is 'False'.
+Cantitatea de date care poate fi scrisa la un moment dat intr-un pipe este limitata.
+The correct answer is 'True'.
