@@ -1268,3 +1268,43 @@ Expresia expr 10 \* 5 returnează 2.
 The correct answer is 'False'.
 Comanda wc -l numara linii.
 The correct answer is 'True'.
+Comunicatia intre procese prin intermediul unui canal fifo poate avea loc si daca acele procese nu cunosc numele fisierului fifo respectiv.
+The correct answer is 'False'.
+Un program C prog.c se ruleaza cu: ./prog.c .
+The correct answer is 'False'.
+Singura modalitate de a crea un proces este prin apelul de sistem fork.
+The correct answer is 'False'.
+Secventa "false &amp;&amp; { echo "CEVA"; } " nu executa nimic.
+The correct answer is 'True'.
+echo "Mara are mere"| wc -c  -  va afisa 3.
+The correct answer is 'False'.
+[ 1 -ne 1 ]  va returna valoarea 1.
+The correct answer is 'True'.
+find test -name "[0-9]"  -  afiseaza acele fisiere sau directoare din directorul "test" a caror nume contin o cifra.
+The correct answer is 'False'.
+Memoria cache este parte din memoria interna si  se comporta ca si un pool de copii ale unor locatii din memoria interna.
+The correct answer is 'True'.
+FCFS (First Come First Served) este cel mai greu algoritm de implementat, insa este cel mai optim din punct de vedere al timpilor de serivre.
+The correct answer is 'False'.
+sed '1,10 instructiune' fis - executa instructiune asupra liniilor de la 1 la 10.
+The correct answer is 'True'.
+Comanda "awk '/[a-z]/ { print }' fis.txt" afiseaza doar coloanele cu literele mici?
+The correct answer is 'False'.
+head -25 fis  -  afiseaza ultimele 25 de linii din fis.
+The correct answer is 'False'.
+Comanda "cp -r" copiaza directoarele recursiv?
+The correct answer is 'True'.
+$# - intoarce numarul aparitiilor comenzii .
+The correct answer is 'False'.
+sed y/a/ab/  fis - este gresita din punct de vedere sintactic.
+The correct answer is 'True'.
+Un canal extern poate fi deschis, la oricare din capete, de orice proces.
+The correct answer is 'True'.
+Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"< div=""><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q171153:4_answer" value="1" id="q171153:4_answertrue" disabled="disabled" checked="checked"><label for="q171153:4_answertrue">True</label> <img src="https://moodle.cs.ubbcluj.ro/theme/image.php/clean/core/1475422350/i/grade_correct" alt="Correct" class="questioncorrectnessicon"></div><div class="r1"><input type="radio" name="q171153:4_answer" value="0" id="q171153:4_answerfalse" disabled="disabled"><label for="q171153:4_answerfalse">False</label> </div></div></div></sep"<>
+The correct answer is 'True'.
+In shell la prima linie a unui fisier te poti referi prin $0.
+The correct answer is 'False'.
+Un semafor este o pereche (v(s),c(s)), unde v(s) este un numar intreg, iar c(s) contine pointeri la procesele care asteapta la semaforul s.
+The correct answer is 'True'.
+In terminologia Unix un proces care s-a terminat si pentru care procesul parinte nu a executat wait se numeste zombie.
+The correct answer is 'True'.
