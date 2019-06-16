@@ -1320,3 +1320,19 @@ Functia read returneaza 0 daca s-a ajuns la sfarsitul fisierului.
 The correct answer is 'True'.
 In linux este interzisa comanda: man man.
 The correct answer is 'False'.
+Specificarea fisierelor poate fi numai absoluta si relativa.
+The correct answer is 'False'.
+Secventa: for(i=1 ; i&lt;= 10; i++ ) fork ();  - ceeaza 10 procese.
+The correct answer is 'False'.
+[ -x file ]  verifica daca file este fisier executabil.
+The correct answer is 'True'.
+Procesele paralele sunt acele procese care pot fi executate in paralel; aceste procese nu se interconditioneaza reciproc, in timpul executiei, si nu colaboreaza intre ele.
+The correct answer is 'True'.
+Functia wait asteapta terminarea unui fiu fara a bloca procesul apelant.
+The correct answer is 'False'.
+Comanda "cd .." ne duce in directorul parinte.
+The correct answer is 'True'.
+Algoritmul FCFS (First Come First Served) executa cererile in ordinea sosirii acestora.
+The correct answer is 'True'.
+In cazul alocarii dinamice de memorie un proces poate fi alocat mai multe partitii, dar nu mai mult de 3.
+The correct answer is 'False'.
