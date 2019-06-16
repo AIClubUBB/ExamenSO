@@ -1,4 +1,4 @@
-In shell, folosind \ evit semnificatia aparte a unui anumit caracter.
+﻿In shell, folosind \ evit semnificatia aparte a unui anumit caracter.
 The correct answer is 'True'.
 Pentru a muta un director intr-un alt director apelam comanda "movedir d1 d2".
 The correct answer is 'False'.
@@ -1127,4 +1127,144 @@ The correct answer is 'False'.
 In awk, NR reprezinta numarul de cuvinte de pe linii, iar NF reprezinta numarul liniei curente.
 The correct answer is 'False'.
 In c1&amp;c2, c2 se va executa in foreground iar c1 in background.
+The correct answer is 'True'.
+/lib contine documentatie, librarii, executabile,etc. ale sistemului sau instalate de useri.
+The correct answer is 'True'.
+Pipe-urile externe nu sunt pastrate in sistemul de fisiere.
+The correct answer is 'False'.
+Structura interna a discului si a sistemului de fisierul Unix este tabela FAT.
+The correct answer is 'False'.
+In cazul in care intr-un program apelez de doua ori functia fork() vor fi create 4 procese ce vor rula in paralel.
+The correct answer is 'True'.
+grep "ceva" A | sort  &gt;  fis  -   nu va afisa nimic pe ecran.
+The correct answer is 'True'.
+head -25 fis  -  afiseaza primele 25 de linii din fis.
+The correct answer is 'True'.
+Secventa de instructiuni: numar=13; expr $numar - 3  va afisa 10
+The correct answer is 'True'.
+grep gr711 /etc/passwd | cut -d: -f1 -&gt; obtinem doar numele de login (field 1) ale celor din grupa 711.
+The correct answer is 'True'.
+find -type d lala  -  va afisa toate directoarele din directorul lala.
+The correct answer is 'True'.
+$# intoarce numarul argumentelor comenzii date.
+The correct answer is 'True'.
+Sistemul de operare Unix este al doilea care a utilizat o structura arborescenta.
+The correct answer is 'False'.
+Directorul /boot contine kernelul sistemului de operare de tip UNIX si fisiere necesare procesului de boot-are.
+The correct answer is 'True'.
+Blocarea concilianta - sistemul verifica la fiecare scriere si citire daca fisierul este blocat sau nu.
+The correct answer is 'False'.
+In awk, variabila predefinita FILENAME reprezinta numele fisierului curent prelucrat.
+The correct answer is 'True'.
+Metoda FIFO (First In First Out) este o metoda din cadrul politicilor de inlocuire ale paginilor de memorie operativa.
+The correct answer is 'True'.
+In C, functia open returneaza 0 in caz de eroare.
+The correct answer is 'False'.
+dup (fd) returneaza primul descriptor care e liber.
+The correct answer is 'True'.
+Cea mai costisitoare solutie a fragmentarii interne de memorie aparute in urma alocarii dinamice este cea de relocare a partitilor.
+The correct answer is 'True'.
+Pentru a accesa valoarea unei variabile in awk trebuie sa folosim $.
+The correct answer is 'False'.
+grep afiseaza  "0" daca nu a gasit ce cauta si "1" daca a gasit.
+The correct answer is 'False'.
+In grep poti afisa linile care nu se potrivesc expresiei regulare utilizand comanda n.
+The correct answer is 'False'.
+Specificarea relativa se face specificand calea incepand de la directorul radacina.
+The correct answer is 'False'.
+Partea pura a unui proces in memorie se schimba in timpul executiei.
+The correct answer is 'False'.
+Optiunea -v de la grep va afisa liniile care nu contin sirul dat.
+The correct answer is 'True'.
+Contextul nucleu este intretinut de nucleu si accesibil doar prin apeluri sistem specifice.
+The correct answer is 'True'.
+Negatia in cazul unei expresii regulare se face cu semnul  ^  la inceput.
+The correct answer is 'False'.
+Citirea din PIPE se face fara consumarea informatiei.
+The correct answer is 'False'.
+find -type f fifo  -  este corect si va afisa toate fisierele din directorul fifo.
+The correct answer is 'True'.
+Shell este un interpretor de conmezi al sistemului de operare linux si este de asemeanea si un limbaj de programare.
+The correct answer is 'True'.
+O diferenta dintre dup() si dup(2) este ca la dup(2) poate fi indicat explicit noul descriptor.
+The correct answer is 'True'.
+Comanda sed nu prelucreaza fisierul de intrare linie cu linie.
+The correct answer is 'False'.
+Specificarea generica se face specificand calea incepand de la directorul curent.
+The correct answer is 'False'.
+echo da; echo nu &gt; fis  -  scrie "da" si "nu" in fisierul fis.
+The correct answer is 'False'.
+In C, constanta O_RDWR - deschidere pentru citire si scriere
+The correct answer is 'True'.
+expr length STRING  -  va returna lungimea stringului dat.
+The correct answer is 'True'.
+Utilitarul awk nu poate prelucra fisiere text.
+The correct answer is 'False'.
+<span class="filter_mathjaxloader_equation">grep '^<span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>.</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" role="math" style="width: 1.074em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.896em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.551em, 1000.84em, 2.384em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-2"><span class="mo" id="MathJax-Span-3" style="font-family: MathJax_Main;">.</span><span class="mo" id="MathJax-Span-4" style="font-family: MathJax_Main; padding-left: 0.182em;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.068em; border-left: 0px solid; width: 0px; height: 0.718em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>.</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-1">.*</script></span> <span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>.</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-5" role="math" style="width: 1.074em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.896em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.551em, 1000.84em, 2.384em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-6"><span class="mo" id="MathJax-Span-7" style="font-family: MathJax_Main;">.</span><span class="mo" id="MathJax-Span-8" style="font-family: MathJax_Main; padding-left: 0.182em;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.068em; border-left: 0px solid; width: 0px; height: 0.718em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>.</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-2">.*</script></span> \1$' fis - afiseaza toate liniile care incep si se termina cu acelasi cuvant.</span>
+The correct answer is 'True'.
+GID semnifica identificatorul userului care a lansat procesul.
+The correct answer is 'False'.
+Functia read returneaza numarul de octeti cititi din fisier.
+The correct answer is 'True'.
+Blocarea obligatorie - sistemul verifica la fiecare scriere si citire daca fisierul este blocat sau nu.
+The correct answer is 'True'.
+Folosind comanda grep putem da o lista de fisiere ca parametrii nu doar un singur fisier.
+The correct answer is 'True'.
+test -z string  verifica daca string este gol.
+The correct answer is 'True'.
+Partea impura a unui proces in memorie nu se schimba in timpul executiei.
+The correct answer is 'False'.
+grep if fis1 fis2 - afiseaza toate liniile din fis1 si fis2 care contin cuvantul "if".
+The correct answer is 'False'.
+Modificarea atributelor intr-o legatura hard este rapida, pe cand cea intr-o legatura simbolica este inceata.
+The correct answer is 'False'.
+sort –m este folosit pentru a elimina linile care apar de mai multe ori.
+The correct answer is 'False'.
+Fiecare intrare in tabela FAT poate ocupa doar 16 biti.
+The correct answer is 'False'.
+^ inseamna, intr-o expresie regulara, inceputul liniei dintr-un fisier.
+The correct answer is 'True'.
+Citirea si scrierea informatiei pe un disc se face la nivel de blocuri de date.
+The correct answer is 'True'.
+Accesul la disc se face in 2 etape : pozitionarea bratului pe cilindrul dorit si schimbul propriu-zis de informatie.
+The correct answer is 'False'.
+Comanda "ls -l" ne arata mai multe informatii fisiere?
+The correct answer is 'True'.
+Conditia de asteptare circulara este o conditie de aparitie a impasului.
+The correct answer is 'True'.
+$?  intoarce codul de terminare al comenzii precedente.
+The correct answer is 'True'.
+După apelul fork() modificările făcute în procesul fiu vor putea fi văzute de către procesul părinte.
+The correct answer is 'False'.
+Imagiunea unui proces in memorie, in contextul nucleu, este intretinut de nucleu si accesibil doar prin apeluri specifice.
+The correct answer is 'True'.
+$1 - returneza numele shell-ului in care ma aflu.
+The correct answer is 'False'.
+[ file1 -nt file2 ] verifica daca file1 este mai vechi decat file2.
+The correct answer is 'False'.
+Secventa: g=stiu; p=ceva; echo $g p va afisa "stiu ceva".
+The correct answer is 'False'.
+sed 's/one/ONE/' file  -  va inlocui toate secventele "one" cu "ONE" din prima linia.
+The correct answer is 'False'.
+In linux este imposibil sa dau liste de comenzi (mai multe comenzi pe aceeasi linie).
+The correct answer is 'False'.
+Un sistem de tip Unix este organizat pe trei nivele: nucleu(kernel), shell, aplicatii.
+The correct answer is 'True'.
+Apelul functiei write(1,"Incep/n",6) intr-un fisier C va afisa "Incep" pe ecran.
+The correct answer is 'True'.
+Tehnologia de stocare electronica reprezinta bitii ca o prezenta sau absenta a unui curent electric in anumite circuite sau modificarea starii anumitor circuite (inchis-deschis).
+The correct answer is 'True'.
+FIFO sunt pipe-urile anonime.
+The correct answer is 'False'.
+Sed prelucrează fişiere interpretate text conform unui scenariu sed, fara a folosi un buffer.
+The correct answer is 'False'.
+Comanda "echo" este folosita pentru a sterge de pe ecran un text sau valori ale unor variabile.
+The correct answer is 'False'.
+$! Indica PID-ul ultimului proces lansat in backround
+The correct answer is 'True'.
+grep fi$ fis1 fis2 - afiseaza liniile din fis1 si fis2 care se termina cu secvemta "fi".
+The correct answer is 'True'.
+Expresia expr 10 \* 5 returnează 2.
+The correct answer is 'False'.
+Comanda wc -l numara linii.
 The correct answer is 'True'.
