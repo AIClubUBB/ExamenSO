@@ -1308,3 +1308,15 @@ Un semafor este o pereche (v(s),c(s)), unde v(s) este un numar intreg, iar c(s) 
 The correct answer is 'True'.
 In terminologia Unix un proces care s-a terminat si pentru care procesul parinte nu a executat wait se numeste zombie.
 The correct answer is 'True'.
+In C, constanta O_WRONLY - deschidere numai pentru citire.
+The correct answer is 'False'.
+test 1 -ne 1 va returna valoarea 0.
+The correct answer is 'False'.
+Intr-un shell, if [ $# -eq 0 ] verifica daca numarul de parametrii este = 0.
+The correct answer is 'True'.
+Procesorul face parte din sistemul de operare al unui calculator.
+The correct answer is 'False'.
+Functia read returneaza 0 daca s-a ajuns la sfarsitul fisierului.
+The correct answer is 'True'.
+In linux este interzisa comanda: man man.
+The correct answer is 'False'.
