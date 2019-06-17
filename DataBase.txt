@@ -1,4 +1,4 @@
-﻿In shell, folosind \ evit semnificatia aparte a unui anumit caracter.
+﻿﻿In shell, folosind \ evit semnificatia aparte a unui anumit caracter.
 The correct answer is 'True'.
 Pentru a muta un director intr-un alt director apelam comanda "movedir d1 d2".
 The correct answer is 'False'.
@@ -1401,4 +1401,16 @@ The correct answer is 'True'.
 finger, w, who, last, id  - sunt comenzi pentru aflarea informatiilor despre useri.
 The correct answer is 'True'.
 Functia wait blocheaza procesul apelant pana la terminarea unui fiu.
+The correct answer is 'True'.
+Cache web' inseamna copii al celor mai vechi pagini web accesate.
+The correct answer is 'False'.
+Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"< div=""><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q172640:5_answer" value="1" id="q172640:5_answertrue" disabled="disabled" checked="checked"><label for="q172640:5_answertrue">True</label> <img src="https://moodle.cs.ubbcluj.ro/theme/image.php/clean/core/1475422350/i/grade_correct" alt="Correct" class="questioncorrectnessicon"></div><div class="r1"><input type="radio" name="q172640:5_answer" value="0" id="q172640:5_answerfalse" disabled="disabled"><label for="q172640:5_answerfalse">False</label> </div></div></div></sep"<>
+The correct answer is 'True'.
+In C, daca prin executarea functiei read s-a ajuns exact la sfarsitul fisierului, functia returneaza -1, iar in caz de eroare 0.
+The correct answer is 'False'.
+In urma executiei "echo ceva|sed 'y/abc/ABC/'" se va afisa textul "CeVa".
+The correct answer is 'False'.
+a=1+1; echo $a  - va afisa pe ecran 1+1.
+The correct answer is 'True'.
+Fiecare proces are un identificator unic (pid).
 The correct answer is 'True'.
