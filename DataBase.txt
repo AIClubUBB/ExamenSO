@@ -1336,3 +1336,69 @@ Algoritmul FCFS (First Come First Served) executa cererile in ordinea sosirii ac
 The correct answer is 'True'.
 In cazul alocarii dinamice de memorie un proces poate fi alocat mai multe partitii, dar nu mai mult de 3.
 The correct answer is 'False'.
+Comanda "touch" creeaza un director?
+The correct answer is 'False'.
+sed -n p fis  -  afiseaza fiecare linie de 2 ori.
+The correct answer is 'False'.
+Asigurarea corectitudinii operatiilor executate in regim de concurenta constituie o problema legata de accesul la resurse.
+The correct answer is 'True'.
+Prin comanda "break" se iese din program.
+The correct answer is 'False'.
+Intr-o expresie regulara, daca semnul  $  este primul caracter al expresiei, acesta semnifica sfarsit de linie.
+The correct answer is 'False'.
+Memoria RAM este un mediu de stocare optic.
+The correct answer is 'False'.
+test file1 -nt file2  verifica daca file1 este mai vechi decat file2.
+The correct answer is 'False'.
+Cand starea unui process este "ReadyMemory" inseamna ca procesul ocupa loc in memoria RAM si este gata pentru a fi executat.
+The correct answer is 'True'.
+In starea RunUser sunt executate instructiunile programului.
+The correct answer is 'True'.
+"Cache disc" retine copii ale celor mai recente sectoare disc accesate.
+The correct answer is 'True'.
+Comanda "rm -r" sterge continutul unui director care contine alte directoare sau fisiere?
+The correct answer is 'True'.
+In write(fd[1],"mesaj",4); si read(fd[0],mesaj,10) s-au ales bine descriptorul de fisier 1 in primul caz si 0 in al doilea?
+The correct answer is 'True'.
+PID este prescurtarea de la process Id.
+The correct answer is 'True'.
+Prin comanda chmod, se pot modifica drepturi de write, read, execute.
+The correct answer is 'True'.
+grep -c expr  - afiseaza numarul de linii in care s-a gasit secventa cautata.
+The correct answer is 'True'.
+Partea pura a unui proces in memorie nu se modifica in timpul executiei.
+The correct answer is 'True'.
+In C, constanta O_CREAT - crearea fisierului, daca el nu exista deja; daca e folosita cu aceasta optiune, functia open trebuie sa primeasca si parametrul mode.
+The correct answer is 'True'.
+Functia predefinita "substr(s,p,n)" a utilitarului "awk",returneaza subsirul lui s care incepe la pozitia p si are lungimea n.
+The correct answer is 'True'.
+Contextul utilizator este portiunea spatiului de adrese accesibile in timpul executiei de catre procesul respectiv in mod user.
+The correct answer is 'True'.
+In starea Zombie procesul inca exsista dar informarea faptului ca s-a terminat a fost preluata.
+The correct answer is 'False'.
+grep ^if fis1 fis2 - afiseaza liniile din fis1 si fis2 care incep cu if.
+The correct answer is 'True'.
+echo "text"  - afiseaza text pe ecran
+The correct answer is 'True'.
+Comanda "finger" afiseaza utilizatorii care au fost logati in ultima luna.
+The correct answer is 'False'.
+In sed putem sterge zona temporala cu ajutorul instructiuni p.
+The correct answer is 'False'.
+Crearea unui fisier fifo se face cu ajutorul editoarelor de text.
+The correct answer is 'False'.
+Detectarea impasului se face atunci cand SO are cel putin un mecanism de prevenire a impasului.
+The correct answer is 'False'.
+In starea Zombie procesul nu mai exsista insa informarea faptului ca s-a terminat, trimisa spre procesul parinte, nu a fost inca preluta de acesta.
+The correct answer is 'True'.
+O sarcina a planificatorului de procese este alegerea procesului caruia i se va atribui procesorul si pentru cat timp.
+The correct answer is 'True'.
+Comanda "grep -i cuvant" cauta un cuvant fara a face diferente intre litere mari si mici?
+The correct answer is 'True'.
+Procesele paralele colaboreaza intre ele.
+The correct answer is 'False'.
+In awk, ARGC este o variabila predefinita care tine minte numarul parametrilor din linia de comanda.
+The correct answer is 'True'.
+finger, w, who, last, id  - sunt comenzi pentru aflarea informatiilor despre useri.
+The correct answer is 'True'.
+Functia wait blocheaza procesul apelant pana la terminarea unui fiu.
+The correct answer is 'True'.
