@@ -1448,7 +1448,7 @@ Unix nu suporta simultan mai multe tipuri de sisteme de fisiere.
 The correct answer is 'False'.
 "joe" ,"nano" si "pico" sunt compilatoare.
 The correct answer is 'False'.
-prw-r-.... -  semnalizeaza un fisier de tip pipe <br>drwxr-xr...  -  semnalizeaza un director <br>
+prw-r-.... -  semnalizeaza un fisier de tip pipe; drwxr-xr...  -  semnalizeaza un director
 The correct answer is 'True'.
 sed s/a/A/  -  schimba toate literele mici a cu litere mari A?
 The correct answer is 'False'.
@@ -1460,7 +1460,7 @@ Efectul apelului sistem popen este urmatorul: deschide un pipe apoi executa un f
 The correct answer is 'False'.
 In Unix nu exista fisier de tip pipe.
 The correct answer is 'False'.
-Avem urmatoarele directoare:<br>Dir1 dir1 dIR1<br>La apelarea comenzii:<br>cd dir1 <br>se va deschide oricare dintre cele 3 directoare, deoarece sisteme de tip unix nu fac distinctie intre literele mari si mici.
+Avem urmatoarele directoare: Dir1 dir1 dIR1; La apelarea comenzii: cd dir1; se va deschide oricare dintre cele 3 directoare, deoarece sisteme de tip unix nu fac distinctie intre literele mari si mici.
 The correct answer is 'False'.
 ls, pwd, cat, find, locate, file, more, less, rm, mkdir, rmdir  - sunt comenzi de lucru cu fisiere.
 The correct answer is 'True'.
@@ -1476,11 +1476,9 @@ Specificarea generica se face folosind: " * , ? , [sir] , [!sir] ".
 The correct answer is 'True'.
 Partea pura a unui process in memorie este formata din: zona text (cod) si date initializate read-only.
 The correct answer is 'True'.
-Comanda:<br>expr index "1234567" 73<br>va returna 3, indicele cel mai mic al caracterului gasit in sirul initial.
+Comanda: expr index "1234567" 73; va returna 3, indicele cel mai mic al caracterului gasit in sirul initial.
 The correct answer is 'True'.
 a=$((1+1)); echo $a  -  va afisa pe ecran: 1+1 .
-The correct answer is 'False'.
-Intre comenzile:<br>  a) x=hello world; echo $x<br>  b) x="hello world"; echo $x<br>  nu este nici o diferenta.
 The correct answer is 'False'.
 Conceptul de "broken pipe" inseamna  pipe-ul e deschis numai in scriere (la capatul de scriere).
 The correct answer is 'True'.
@@ -1508,7 +1506,7 @@ finger, w, who, last, id  - sunt comenzi comenzi de lucru cu fisiere.
 The correct answer is 'False'.
 Comanda "file" ne arata toate directoarele si subdirectoarele dintr-un director curent?
 The correct answer is 'False'.
-<span class="filter_mathjaxloader_equation">sed 's/^<span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>[</mo><mi>a</mi><mo>&amp;#x2212;</mo><mi>z</mi><mo stretchy=&quot;false&quot;>]</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" role="math" style="width: 3.932em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.277em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.253em, 1003.22em, 2.622em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-2"><span class="mo" id="MathJax-Span-3" style="font-family: MathJax_Main;">[</span><span class="mi" id="MathJax-Span-4" style="font-family: MathJax_Math-italic;">a</span><span class="mo" id="MathJax-Span-5" style="font-family: MathJax_Main; padding-left: 0.241em;">−</span><span class="mi" id="MathJax-Span-6" style="font-family: MathJax_Math-italic; padding-left: 0.241em;">z<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span><span class="mo" id="MathJax-Span-7" style="font-family: MathJax_Main;">]</span><span class="mo" id="MathJax-Span-8" style="font-family: MathJax_Main;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">[</mo><mi>a</mi><mo>−</mo><mi>z</mi><mo stretchy="false">]</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-1">[a-z]*</script></span> <span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>[</mo><mi>a</mi><mo>&amp;#x2212;</mo><mi>z</mi><mo stretchy=&quot;false&quot;>]</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-9" role="math" style="width: 3.932em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.277em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.253em, 1003.22em, 2.622em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-10"><span class="mo" id="MathJax-Span-11" style="font-family: MathJax_Main;">[</span><span class="mi" id="MathJax-Span-12" style="font-family: MathJax_Math-italic;">a</span><span class="mo" id="MathJax-Span-13" style="font-family: MathJax_Main; padding-left: 0.241em;">−</span><span class="mi" id="MathJax-Span-14" style="font-family: MathJax_Math-italic; padding-left: 0.241em;">z<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span><span class="mo" id="MathJax-Span-15" style="font-family: MathJax_Main;">]</span><span class="mo" id="MathJax-Span-16" style="font-family: MathJax_Main;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">[</mo><mi>a</mi><mo>−</mo><mi>z</mi><mo stretchy="false">]</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-2">[a-z]*</script></span> <span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-3-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>[</mo><mi>a</mi><mo>&amp;#x2212;</mo><mi>z</mi><mo stretchy=&quot;false&quot;>]</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-17" role="math" style="width: 3.932em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.277em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.253em, 1003.22em, 2.622em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-18"><span class="mo" id="MathJax-Span-19" style="font-family: MathJax_Main;">[</span><span class="mi" id="MathJax-Span-20" style="font-family: MathJax_Math-italic;">a</span><span class="mo" id="MathJax-Span-21" style="font-family: MathJax_Main; padding-left: 0.241em;">−</span><span class="mi" id="MathJax-Span-22" style="font-family: MathJax_Math-italic; padding-left: 0.241em;">z<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span><span class="mo" id="MathJax-Span-23" style="font-family: MathJax_Main;">]</span><span class="mo" id="MathJax-Span-24" style="font-family: MathJax_Main;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">[</mo><mi>a</mi><mo>−</mo><mi>z</mi><mo stretchy="false">]</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-3">[a-z]*</script></span>/\3 \2 \1/ g' numefis  -  afiseaza in ordina inversa primele trei cuvinte din fisier.</span>
+sed 's/^[a-z]* [a-z]* [a-z]*/\3 \2 \1/g' numefis  -  afiseaza in ordina inversa primele trei cuvinte din fisier.</span>
 The correct answer is 'True'.
 Metoda de prevenire a impasului este alocarea controlata de resurse.
 The correct answer is 'True'.
@@ -1518,19 +1516,23 @@ Prin comanda cat este afisat continutul unui fisier cu posibilitatea ca utilizat
 The correct answer is 'False'.
 stdout=2.
 The correct answer is 'False'.
-<span class="filter_mathjaxloader_equation">expr calculator : '<span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>.</mo><mo>.</mo><mo>.</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" role="math" style="width: 1.313em; display: inline-block;"><span style="display: inline-block; position: relative; width: 1.074em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.908em, 1001.01em, 2.384em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-2"><span class="mo" id="MathJax-Span-3" style="font-family: MathJax_Main;">.</span><span class="mo" id="MathJax-Span-4" style="font-family: MathJax_Main; padding-left: 0.182em;">.</span><span class="mo" id="MathJax-Span-5" style="font-family: MathJax_Main; padding-left: 0.182em;">.</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.068em; border-left: 0px solid; width: 0px; height: 0.289em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>.</mo><mo>.</mo><mo>.</mo></math></span></span><script type="math/tex" id="MathJax-Element-1">...</script></span>'   -  afiseaza " cal " pe ecran.</span>
-The correct answer is 'True'.
-Secventa de instructiuni: <br> $ ls<br>fis<br>$ mv fis fis_new<br> $ ls<br> va afisa fis
+Secventa de instructiuni: $ ls; fis; $ mv fis fis_new; $ ls; va afisa fis
 The correct answer is 'False'.
-Secventa:<br> num=3*10+4<br> echo $num<br> afiseaza 34 pe ecran.
+Secventa: num=3*10+4; echo $num afiseaza 34 pe ecran.
 The correct answer is 'False'.
 sed '1,10 instructiune' fis - executa instructiune asupra liniilor de la 0 la 10.
 The correct answer is 'False'.
-Secventa:<br> x="abc"<br> echo "${x}abc"<br> afiseaza abcabc pe ecran.
+Semafoarele sunt folosite pentru sincronizarea proceselor active concurente.
 The correct answer is 'True'.
-Dupa secventa de cod:<br>pid = fork();<br>if(pid==0){ fork(); }<br>else{ }<br>}<br>vor fi in total 3 procese active.
+"$?" indica toate argumentele, ca succesiune de siruri?
+The correct answer is 'False'.
+Procesele concurente pot folosi in comun aceleasi resurse.
 The correct answer is 'True'.
-La apelarea comenzii:<br>expr string : '.*' <br>se va afisa numarul de caractere al cuvantului "string".
+Intretinerea unui cache Web se face prin pool-uri cu paginile web cele mai recent folosite.
 The correct answer is 'True'.
-Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"< div=""><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q174388:7_answer" value="1" id="q174388:7_answertrue" disabled="disabled" checked="checked"><label for="q174388:7_answertrue">True</label> <img src="https://moodle.cs.ubbcluj.ro/theme/image.php/clean/core/1475422350/i/grade_correct" alt="Correct" class="questioncorrectnessicon"></div><div class="r1"><input type="radio" name="q174388:7_answer" value="0" id="q174388:7_answerfalse" disabled="disabled"><label for="q174388:7_answerfalse">False</label> </div></div></div></sep"<>
+In awk NR este o variabila predefinita care retine numarul liniei curente din fisierul current.
+The correct answer is 'False'.
+Partea impura a unui process in memorie este formata din: stiva, date neinitializare, date initializate read-write.
+The correct answer is 'True'.
+Valoarea unei variable SHELL se afiseaza prin comanda "echo $numevar".
 The correct answer is 'True'.
