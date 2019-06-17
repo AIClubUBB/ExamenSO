@@ -1414,3 +1414,31 @@ a=1+1; echo $a  - va afisa pe ecran 1+1.
 The correct answer is 'True'.
 Fiecare proces are un identificator unic (pid).
 The correct answer is 'True'.
+read x -  aici x este o variabila in care se va pune ceea ce se introduce de la tastatura.
+The correct answer is 'True'.
+grep - cauta un anumit sir de caractere intr-unul sau mai multe fisiere si afiseaza la iesirea standard rezultatul.
+The correct answer is 'True'.
+Din starea SleepSwaped procesul poate trece direct in starea RunUser.
+The correct answer is 'False'.
+Intr-o expresie regulara, "[^sir_caractere]" este negatia lui "[sir_caractere]".
+The correct answer is 'True'.
+Memoria externa este formata din memorie secundara si memorie de arhivare.
+The correct answer is 'True'.
+De obicei optiunile cu - seteaza ceva, iar cele cu + deseteaza ceva.
+The correct answer is 'False'.
+Urmatoarele secvente sunt echivalente: a=$((1+1))  si  a=`expr 1 + 1` .
+The correct answer is 'True'.
+mkfifo fisier  -  sterge un fisier FIFO.
+The correct answer is 'False'.
+Optiunea -i de la grep nu va face diferenta intre litere mari si litere mici la cautare.
+The correct answer is 'True'.
+echo ceva |sed 's/[^abce]/X/' va afisa dupa executare cuvantul "ceXa".
+The correct answer is 'True'.
+In mecanismul i-node, "size" reprezinta numarul de octeti (lungimea) fisierului.
+The correct answer is 'True'.
+O față a unui platan este împărțită în piste.
+The correct answer is 'True'.
+Folosirea in mod exclusiv a acelorasi resurse de catre mai multe procese concurente poate duce la impas.
+The correct answer is 'True'.
+Structura interna a discului UNIX este formata din blocul de incarcare, superblocul si I-nodurile.
+The correct answer is 'False'.
