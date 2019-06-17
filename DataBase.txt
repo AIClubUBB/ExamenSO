@@ -448,11 +448,11 @@ Procesele se executa in ordinea in care au fost create si nu se tine cont de imp
 The correct answer is 'False'.
 echo ?$ afiseaza codul de retur al comenzii date anterior.
 The correct answer is 'False'.
-expr calculator : '\(...\)'   -  afiseaza "cal" pe ecran.</span>
+expr calculator : '\(...\)'   -  afiseaza "cal" pe ecran.
 The correct answer is 'True'.
 pwd arata locul unde suntem noi (in shell).
 The correct answer is 'False'.
-Dupa secventa de cod:<br>pid = fork(); if(pid==0){ fork(); } else{ } } vor fi in total 3 procese active.
+Dupa secventa de cod: pid = fork(); if(pid==0){ fork(); } else{ } } vor fi in total 3 procese active.
 The correct answer is 'True'.
 Alegerea unui proces "victima" este o cauza a aparitiei impasului.
 The correct answer is 'False'.
