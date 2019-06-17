@@ -1,4 +1,4 @@
-﻿﻿In shell, folosind \ evit semnificatia aparte a unui anumit caracter.
+﻿﻿﻿In shell, folosind \ evit semnificatia aparte a unui anumit caracter.
 The correct answer is 'True'.
 Pentru a muta un director intr-un alt director apelam comanda "movedir d1 d2".
 The correct answer is 'False'.
@@ -1441,4 +1441,10 @@ The correct answer is 'True'.
 Folosirea in mod exclusiv a acelorasi resurse de catre mai multe procese concurente poate duce la impas.
 The correct answer is 'True'.
 Structura interna a discului UNIX este formata din blocul de incarcare, superblocul si I-nodurile.
+The correct answer is 'False'.
+test file1 -nt file2  verifica daca file1 este mai nou decat file2.
+The correct answer is 'True'.
+Unix nu suporta simultan mai multe tipuri de sisteme de fisiere.
+The correct answer is 'False'.
+"joe" ,"nano" si "pico" sunt compilatoare.
 The correct answer is 'False'.
