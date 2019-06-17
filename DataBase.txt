@@ -132,7 +132,7 @@ The correct answer is 'False'.
 The correct answer is 'False'.
 grep ^if fis1 fis2 - afiseaza liniile din fis1 si fis2 care nu contin secventa if.
 The correct answer is 'False'.
-Secventa: num=3*10+4 echo $num afiseaza 34 pe ecran.
+Secventa:<br> num=3*10+4<br> echo $num<br> afiseaza 34 pe ecran.
 The correct answer is 'False'.
 echo variabila  -  afiseaza valoarea variabilei.
 The correct answer is 'False'.
@@ -210,7 +210,7 @@ Comanda "cd .." ne scoate dintr-un fisier?
 The correct answer is 'False'.
 Pentru a accesa un bloc de date, unitatea de disc actioneaza in 3 etape: pozitionarea bratului pe cilindrul dorit, rotirea discului pana cand sectorul trece prin fata capului de citire/scriere, schimbul propriu-zis de informatie.
 The correct answer is 'True'.
-mkdir dir1/dir2   -  Inseamna crearea lui dir2 in dir1 din directorul curent.
+mkdir dir1/dir2   -  Ã®nseamnÄƒ crearea lui dir2 Ã®n dir1 din directorul curent.
 The correct answer is 'True'.
 Schimbul de informatii cu memoria are ca politica de plasare metoda First-fit
 The correct answer is 'True'.
@@ -364,7 +364,7 @@ Crearea canalelor de comunicare intre procese se realizează în UNIX folosind a
 The correct answer is 'False'.
 $*  indica toate argumentele, privite ca un singur sir, iar $@ indica toate argumentele, ca succesiune de siruri
 The correct answer is 'True'.
-$$ indica PID-ul procesului parinte
+<span class="filter_mathjaxloader_equation">$$ indica PID-ul procesului parinte</span>
 The correct answer is 'True'.
 După apelul dup2(), descriptorul newfd va indica același fișier ca oldfd.
 The correct answer is 'True'.
@@ -390,7 +390,7 @@ Primul pas in tratarea liniei de comanda este despartirea in comenzi elementare 
 The correct answer is 'True'.
 Existenta simultana in memoria interna a mai multor procese care se executa concurrent se numeste multiprogramare.
 The correct answer is 'True'.
-Secventa:  for color in red blue green;  echo $color;  afiseaza red blue green.
+Secventa:<br>  for color in red blue green<br>  echo $color<br>  afiseaza red blue green.
 The correct answer is 'False'.
 In shell exista trei tipuri de ghilimele: "ghilimele duble", 'ghilimele simple' si `glilimele inclinate`.
 The correct answer is 'True'.
@@ -400,7 +400,7 @@ Specificarea absoluta se face folosind: " * , ? , [sir] , [!sir] ".
 The correct answer is 'False'.
 Secventa: expr dog \&gt; cat va returna dog \&gt; cat.
 The correct answer is 'False'.
-"$$" indica PID-ul ultimului proces lansat in background?
+<span class="filter_mathjaxloader_equation">"$$" indica PID-ul ultimului proces lansat in background?</span>
 The correct answer is 'False'.
 Despartirea in comenzi elementare se poate face prin oricare dintre urmatorii separatori   ;   |   &amp;&amp;   || .
 The correct answer is 'True'.
@@ -448,11 +448,11 @@ Procesele se executa in ordinea in care au fost create si nu se tine cont de imp
 The correct answer is 'False'.
 echo ?$ afiseaza codul de retur al comenzii date anterior.
 The correct answer is 'False'.
-expr calculator : '\(...\)'   -  afiseaza "cal" pe ecran.
+<span class="filter_mathjaxloader_equation">expr calculator : '<span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>.</mo><mo>.</mo><mo>.</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" role="math" style="width: 1.313em; display: inline-block;"><span style="display: inline-block; position: relative; width: 1.074em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.908em, 1001.01em, 2.384em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-2"><span class="mo" id="MathJax-Span-3" style="font-family: MathJax_Main;">.</span><span class="mo" id="MathJax-Span-4" style="font-family: MathJax_Main; padding-left: 0.182em;">.</span><span class="mo" id="MathJax-Span-5" style="font-family: MathJax_Main; padding-left: 0.182em;">.</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.068em; border-left: 0px solid; width: 0px; height: 0.289em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>.</mo><mo>.</mo><mo>.</mo></math></span></span><script type="math/tex" id="MathJax-Element-1">...</script></span>'   -  afiseaza " cal " pe ecran.</span>
 The correct answer is 'True'.
 pwd arata locul unde suntem noi (in shell).
 The correct answer is 'False'.
-Dupa secventa de cod: pid = fork(); if(pid==0){ fork(); } else{ } } vor fi in total 3 procese active.
+Dupa secventa de cod:<br>pid = fork();<br>if(pid==0){ fork(); }<br>else{ }<br>}<br>vor fi in total 3 procese active.
 The correct answer is 'True'.
 Alegerea unui proces "victima" este o cauza a aparitiei impasului.
 The correct answer is 'False'.
@@ -504,7 +504,7 @@ getuid() returneaza identificatorul grupului utilizatorului ce a lansat procesul
 The correct answer is 'False'.
 sort &lt; fis1 &gt; fis2  -  liniile din fisierul fis1 vor fi sortate si sortarea va aparea tot in fisierul fis1.
 The correct answer is 'False'.
-La apelarea comenzii: expr string : '.*' se va afisa numarul de caractere al cuvantului "string".
+La apelarea comenzii:<br>expr string : '.*' <br>se va afisa numarul de caractere al cuvantului "string".
 The correct answer is 'True'.
 Fixarea drepturilor implicite sau aflarea acestora se poate face cu comanda umask.
 The correct answer is 'True'.
@@ -580,7 +580,7 @@ In C, constanta O_RDONLY - deschidere numai pentru scriere.
 The correct answer is 'False'.
 dup2(): pt a elibera un file descriptorul dat ca si al doilea parametru, inchide fisierul corespunzator, dupa care apeleaza un dup().
 The correct answer is 'True'.
-val=`expr 2 + 2` echo "Valoare: $val" va afisa Valoare: $val.
+val=`expr 2 + 2`<br>echo "Valoare: $val"<br>va afisa Valoare: $val.
 The correct answer is 'False'.
 Comanda "echo Bunaziua|sed s/ziua/seara/" va schimba ziua cu seara?
 The correct answer is 'True'.
@@ -630,7 +630,7 @@ grep gr711 /etc/passwd | cut -d: -f1 -&gt; obtinem toate datele despre cei din g
 The correct answer is 'False'.
 Secventa: Created - ReadyMemory - Preempted - RunUser este traseul celui mai prioritar proces din sistem.
 The correct answer is 'False'.
-Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"
+Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"< div=""><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q168586:5_answer" value="1" id="q168586:5_answertrue" disabled="disabled" checked="checked"><label for="q168586:5_answertrue">True</label> <img src="https://moodle.cs.ubbcluj.ro/theme/image.php/clean/core/1475422350/i/grade_correct" alt="Correct" class="questioncorrectnessicon"></div><div class="r1"><input type="radio" name="q168586:5_answer" value="0" id="q168586:5_answerfalse" disabled="disabled"><label for="q168586:5_answerfalse">False</label> </div></div></div></sep"<>
 The correct answer is 'True'.
 Functia waitpid specifica procesul fiu asteptat specificand PID-ul acestuia ca si parametru.
 The correct answer is 'True'.
@@ -754,7 +754,7 @@ Comanda "kill" emite un semnal de tip intrerupere catre un proces.
 The correct answer is 'True'.
 In: c1||c2, c2 se executa doar in cazul in care c1 s-a terminat cu succes.
 The correct answer is 'False'.
-Comanda "echo abcd efg | sed 's/\([a-z]*\) \([a-z]*\)/\1\2 /'" sterge spatiul dintre cuvinte.</span>
+<span class="filter_mathjaxloader_equation">Comanda "echo abcd efg | sed 's/<span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>[</mo><mi>a</mi><mo>&amp;#x2212;</mo><mi>z</mi><mo stretchy=&quot;false&quot;>]</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" role="math" style="width: 3.932em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.277em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.253em, 1003.22em, 2.622em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-2"><span class="mo" id="MathJax-Span-3" style="font-family: MathJax_Main;">[</span><span class="mi" id="MathJax-Span-4" style="font-family: MathJax_Math-italic;">a</span><span class="mo" id="MathJax-Span-5" style="font-family: MathJax_Main; padding-left: 0.241em;">−</span><span class="mi" id="MathJax-Span-6" style="font-family: MathJax_Math-italic; padding-left: 0.241em;">z<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span><span class="mo" id="MathJax-Span-7" style="font-family: MathJax_Main;">]</span><span class="mo" id="MathJax-Span-8" style="font-family: MathJax_Main;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">[</mo><mi>a</mi><mo>−</mo><mi>z</mi><mo stretchy="false">]</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-1">[a-z]*</script></span> <span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>[</mo><mi>a</mi><mo>&amp;#x2212;</mo><mi>z</mi><mo stretchy=&quot;false&quot;>]</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-9" role="math" style="width: 3.932em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.277em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.253em, 1003.22em, 2.622em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-10"><span class="mo" id="MathJax-Span-11" style="font-family: MathJax_Main;">[</span><span class="mi" id="MathJax-Span-12" style="font-family: MathJax_Math-italic;">a</span><span class="mo" id="MathJax-Span-13" style="font-family: MathJax_Main; padding-left: 0.241em;">−</span><span class="mi" id="MathJax-Span-14" style="font-family: MathJax_Math-italic; padding-left: 0.241em;">z<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span><span class="mo" id="MathJax-Span-15" style="font-family: MathJax_Main;">]</span><span class="mo" id="MathJax-Span-16" style="font-family: MathJax_Main;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">[</mo><mi>a</mi><mo>−</mo><mi>z</mi><mo stretchy="false">]</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-2">[a-z]*</script></span>/\1\2 /'" sterge spatiul dintre cuvinte.</span>
 The correct answer is 'True'.
 ls, pwd, cat, find, locate, file, more, less, rm, mkdir, rmdir sunt comenzi pentru aflarea informatiilor despre useri.
 The correct answer is 'False'.
@@ -820,7 +820,7 @@ EUID este prescurtarea pentru effective user ID.
 The correct answer is 'True'.
 Prin comanda "ps -u numeutilizator" se afiseaza pe ecran procesele create de catre utilizator.
 The correct answer is 'True'.
-prw-r-.... -  semnalizeaza un fisier de tip pipe drwxr-xr...  -  semnalizeaza un director
+prw-r-.... -  semnalizeaza un fisier de tip pipe <br>drwxr-xr...  -  semnalizeaza un director <br>
 The correct answer is 'True'.
 echo $v  -  afiseaza valoarea variabilei v.
 The correct answer is 'True'.
@@ -890,7 +890,7 @@ In succesiunea de comenzi shell: c1&amp;c2 c2 se va executa in backround.
 The correct answer is 'False'.
 Broken Pipe' este atunci cand doua procese asteapta sa citeasca dintr-un pipe.
 The correct answer is 'False'.
-Intre comenzile:  a) x=hello world; echo $x  b) x="hello world"; echo $x  nu este nici o diferenta.
+Intre comenzile:<br>  a) x=hello world; echo $x<br>  b) x="hello world"; echo $x<br>  nu este nici o diferenta.
 The correct answer is 'False'.
 Instructiunea "[ $# -gt 1 ]" verifica daca numarul argumentelor este sau nu mai mare decat 1.
 The correct answer is 'True'.
@@ -952,7 +952,7 @@ La un fisier NTFS: numele fisierului, informatii legate de securitate si datele 
 The correct answer is 'True'.
 Deschiderea unui fisier este operatia prin care fisierul este pregatit pentru a putea fi prelucrat in continuare, aceasta realizandu-se prin functia open.
 The correct answer is 'True'.
-Comanda: expr index "1234567" 73; va returna 3, indicele cel mai mic al caracterului gasit in sirul initial.
+Comanda:<br>expr index "1234567" 73<br>va returna 3, indicele cel mai mic al caracterului gasit in sirul initial.
 The correct answer is 'True'.
 Utilitarul awk are functii predefinite precum : length(sir), substr(s,p,n), split(s,a,c)
 The correct answer is 'True'.
@@ -1046,7 +1046,7 @@ Comanda 'grep "are mere" t?' cauta in fisierele care incep cu litera "t" secvent
 The correct answer is 'True'.
 Comanda "mkdir" creaza un director
 The correct answer is 'True'.
-Secventa: x="abc"; echo "${x}abc"; afiseaza abcabc pe ecran.
+Secventa:<br> x="abc"<br> echo "${x}abc"<br> afiseaza abcabc pe ecran.
 The correct answer is 'True'.
 CPU verifica mai intai daca datele invocate se afla in memoria operativa, abia apoi verifica memoria cache.
 The correct answer is 'False'.
@@ -1112,7 +1112,7 @@ Pentru comunicare bidirectionala intre procese se recomanda folosirea unui singu
 The correct answer is 'False'.
 echo "mar x portocala" | tr "x" "&amp;"  - afiseaza: mar &amp; portocala.
 The correct answer is 'True'.
-La apelarea comenzii: expr string : ing; se va returna 3, deoarece ultimele 3 caractere se potrivesc.
+La apelarea comenzii:<br>expr string : ing <br>se va returna 3, deoarece ultimele 3 caractere se potrivesc.
 The correct answer is 'False'.
 Efectul apelului sistem popen este urmatorul: deschide un pipe apoi executa un fork, iar in procesul nou creat va executa comanda data ca si prim parametru.
 The correct answer is 'False'.
@@ -1200,7 +1200,7 @@ expr length STRING  -  va returna lungimea stringului dat.
 The correct answer is 'True'.
 Utilitarul awk nu poate prelucra fisiere text.
 The correct answer is 'False'.
-grep '^.∗ .∗ \1$' fis - afiseaza toate liniile care incep si se termina cu acelasi cuvant.
+<span class="filter_mathjaxloader_equation">grep '^<span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>.</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" role="math" style="width: 1.074em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.896em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.551em, 1000.84em, 2.384em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-2"><span class="mo" id="MathJax-Span-3" style="font-family: MathJax_Main;">.</span><span class="mo" id="MathJax-Span-4" style="font-family: MathJax_Main; padding-left: 0.182em;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.068em; border-left: 0px solid; width: 0px; height: 0.718em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>.</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-1">.*</script></span> <span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>.</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-5" role="math" style="width: 1.074em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.896em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.551em, 1000.84em, 2.384em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-6"><span class="mo" id="MathJax-Span-7" style="font-family: MathJax_Main;">.</span><span class="mo" id="MathJax-Span-8" style="font-family: MathJax_Main; padding-left: 0.182em;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.068em; border-left: 0px solid; width: 0px; height: 0.718em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>.</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-2">.*</script></span> \1$' fis - afiseaza toate liniile care incep si se termina cu acelasi cuvant.</span>
 The correct answer is 'True'.
 GID semnifica identificatorul userului care a lansat procesul.
 The correct answer is 'False'.
@@ -1300,7 +1300,7 @@ sed y/a/ab/  fis - este gresita din punct de vedere sintactic.
 The correct answer is 'True'.
 Un canal extern poate fi deschis, la oricare din capete, de orice proces.
 The correct answer is 'True'.
-Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"
+Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"< div=""><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q171153:4_answer" value="1" id="q171153:4_answertrue" disabled="disabled" checked="checked"><label for="q171153:4_answertrue">True</label> <img src="https://moodle.cs.ubbcluj.ro/theme/image.php/clean/core/1475422350/i/grade_correct" alt="Correct" class="questioncorrectnessicon"></div><div class="r1"><input type="radio" name="q171153:4_answer" value="0" id="q171153:4_answerfalse" disabled="disabled"><label for="q171153:4_answerfalse">False</label> </div></div></div></sep"<>
 The correct answer is 'True'.
 In shell la prima linie a unui fisier te poti referi prin $0.
 The correct answer is 'False'.
@@ -1404,7 +1404,7 @@ Functia wait blocheaza procesul apelant pana la terminarea unui fiu.
 The correct answer is 'True'.
 Cache web' inseamna copii al celor mai vechi pagini web accesate.
 The correct answer is 'False'.
-Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"
+Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"< div=""><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q172640:5_answer" value="1" id="q172640:5_answertrue" disabled="disabled" checked="checked"><label for="q172640:5_answertrue">True</label> <img src="https://moodle.cs.ubbcluj.ro/theme/image.php/clean/core/1475422350/i/grade_correct" alt="Correct" class="questioncorrectnessicon"></div><div class="r1"><input type="radio" name="q172640:5_answer" value="0" id="q172640:5_answerfalse" disabled="disabled"><label for="q172640:5_answerfalse">False</label> </div></div></div></sep"<>
 The correct answer is 'True'.
 In C, daca prin executarea functiei read s-a ajuns exact la sfarsitul fisierului, functia returneaza -1, iar in caz de eroare 0.
 The correct answer is 'False'.
@@ -1442,9 +1442,77 @@ Folosirea in mod exclusiv a acelorasi resurse de catre mai multe procese concure
 The correct answer is 'True'.
 Structura interna a discului UNIX este formata din blocul de incarcare, superblocul si I-nodurile.
 The correct answer is 'False'.
-test file1 -nt file2  verifica daca file1 este mai nou decat file2.
-The correct answer is 'True'.
-Unix nu suporta simultan mai multe tipuri de sisteme de fisiere.
+sed s/a/A/  -  schimba toate literele mici a cu litere mari A?
 The correct answer is 'False'.
+mkdir fifo face implicit un pipe cu nume.
+The correct answer is 'False'.
+In tehnica zonelor tampon temporare, la scrierea in fisier, consumatorul este procesul care consuma informatiile.
+The correct answer is 'False'.
+Efectul apelului sistem popen este urmatorul: deschide un pipe apoi executa un fork().
+The correct answer is 'False'.
+In Unix nu exista fisier de tip pipe.
+The correct answer is 'False'.
+Avem urmatoarele directoare:<br>Dir1 dir1 dIR1<br>La apelarea comenzii:<br>cd dir1 <br>se va deschide oricare dintre cele 3 directoare, deoarece sisteme de tip unix nu fac distinctie intre literele mari si mici.
+The correct answer is 'False'.
+ls, pwd, cat, find, locate, file, more, less, rm, mkdir, rmdir  - sunt comenzi de lucru cu fisiere.
+The correct answer is 'True'.
+La atribuirea unei valori unei variabile shell se lasa spatiu inainte de = si si dupa.
+The correct answer is 'False'.
+Daca avem un singur process in executie acesta va trece obigatoriu prin starea Preempted.
+The correct answer is 'False'.
+In urma crearii unui proces fiu prin comanda "fork()", pidul fiului va fi egal cu pidul parintelui.
+The correct answer is 'False'.
+Comanda grep are codul de retur 0, daca gaseste secventa data, sau 1 altfel.
+The correct answer is 'True'.
+Specificarea generica se face folosind: " * , ? , [sir] , [!sir] ".
+The correct answer is 'True'.
+Partea pura a unui process in memorie este formata din: zona text (cod) si date initializate read-only.
+The correct answer is 'True'.
+a=$((1+1)); echo $a  -  va afisa pe ecran: 1+1 .
+The correct answer is 'False'.
+Conceptul de "broken pipe" inseamna  pipe-ul e deschis numai in scriere (la capatul de scriere).
+The correct answer is 'True'.
+Comentariile se introduc in fisierele shell prin caracterul * (steluta) si continua pe tot restul liniei.
+The correct answer is 'False'.
+La creearea unui pipe anonim se returneaza doua capete (de citire si de scriere).
+The correct answer is 'True'.
+In: cat /etc/passwd | grep gr71. | less  -  "." reprezinta orice alt caracter.
+The correct answer is 'True'.
 "joe" ,"nano" si "pico" sunt compilatoare.
 The correct answer is 'False'.
+Iesirea din impas se poate face prin reincarcarea sistemului de operare.
+The correct answer is 'True'.
+Procesele paralele nu se interconditionneaza reciproc si nu colaboreaza intre ele.
+The correct answer is 'True'.
+După apelul fork() cele două procese își continuă execuția în paralel.
+The correct answer is 'True'.
+Pentru a deschide capatul de citire a unui canal extern, procesul respective trebuie sa fie inrudit cu procesul care a deschis capatul de scriere a acelui canal.
+The correct answer is 'False'.
+Prima generatie de calculatoare nu aveau SO.
+The correct answer is 'True'.
+$?  intoarce PID-ul procesului parinte.
+The correct answer is 'False'.
+Procesul parinte se va executa dupa procesul fiu?
+The correct answer is 'False'.
+finger, w, who, last, id  - sunt comenzi comenzi de lucru cu fisiere.
+The correct answer is 'False'.
+Comanda "file" ne arata toate directoarele si subdirectoarele dintr-un director curent?
+The correct answer is 'False'.
+<span class="filter_mathjaxloader_equation">sed 's/^<span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>[</mo><mi>a</mi><mo>&amp;#x2212;</mo><mi>z</mi><mo stretchy=&quot;false&quot;>]</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-1" role="math" style="width: 3.932em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.277em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.253em, 1003.22em, 2.622em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-2"><span class="mo" id="MathJax-Span-3" style="font-family: MathJax_Main;">[</span><span class="mi" id="MathJax-Span-4" style="font-family: MathJax_Math-italic;">a</span><span class="mo" id="MathJax-Span-5" style="font-family: MathJax_Main; padding-left: 0.241em;">−</span><span class="mi" id="MathJax-Span-6" style="font-family: MathJax_Math-italic; padding-left: 0.241em;">z<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span><span class="mo" id="MathJax-Span-7" style="font-family: MathJax_Main;">]</span><span class="mo" id="MathJax-Span-8" style="font-family: MathJax_Main;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">[</mo><mi>a</mi><mo>−</mo><mi>z</mi><mo stretchy="false">]</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-1">[a-z]*</script></span> <span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>[</mo><mi>a</mi><mo>&amp;#x2212;</mo><mi>z</mi><mo stretchy=&quot;false&quot;>]</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-9" role="math" style="width: 3.932em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.277em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.253em, 1003.22em, 2.622em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-10"><span class="mo" id="MathJax-Span-11" style="font-family: MathJax_Main;">[</span><span class="mi" id="MathJax-Span-12" style="font-family: MathJax_Math-italic;">a</span><span class="mo" id="MathJax-Span-13" style="font-family: MathJax_Main; padding-left: 0.241em;">−</span><span class="mi" id="MathJax-Span-14" style="font-family: MathJax_Math-italic; padding-left: 0.241em;">z<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span><span class="mo" id="MathJax-Span-15" style="font-family: MathJax_Main;">]</span><span class="mo" id="MathJax-Span-16" style="font-family: MathJax_Main;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">[</mo><mi>a</mi><mo>−</mo><mi>z</mi><mo stretchy="false">]</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-2">[a-z]*</script></span> <span class="nolink"><span class="MathJax_Preview" style="color: inherit;"></span><span class="MathJax" id="MathJax-Element-3-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>[</mo><mi>a</mi><mo>&amp;#x2212;</mo><mi>z</mi><mo stretchy=&quot;false&quot;>]</mo><mo>&amp;#x2217;</mo></math>" role="presentation" style="position: relative;"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-17" role="math" style="width: 3.932em; display: inline-block;"><span style="display: inline-block; position: relative; width: 3.277em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.253em, 1003.22em, 2.622em, -999.997em); top: -2.199em; left: 0.003em;"><span class="mrow" id="MathJax-Span-18"><span class="mo" id="MathJax-Span-19" style="font-family: MathJax_Main;">[</span><span class="mi" id="MathJax-Span-20" style="font-family: MathJax_Math-italic;">a</span><span class="mo" id="MathJax-Span-21" style="font-family: MathJax_Main; padding-left: 0.241em;">−</span><span class="mi" id="MathJax-Span-22" style="font-family: MathJax_Math-italic; padding-left: 0.241em;">z<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.003em;"></span></span><span class="mo" id="MathJax-Span-23" style="font-family: MathJax_Main;">]</span><span class="mo" id="MathJax-Span-24" style="font-family: MathJax_Main;">∗</span></span><span style="display: inline-block; width: 0px; height: 2.205em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.354em; border-left: 0px solid; width: 0px; height: 1.361em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">[</mo><mi>a</mi><mo>−</mo><mi>z</mi><mo stretchy="false">]</mo><mo>∗</mo></math></span></span><script type="math/tex" id="MathJax-Element-3">[a-z]*</script></span>/\3 \2 \1/ g' numefis  -  afiseaza in ordina inversa primele trei cuvinte din fisier.</span>
+The correct answer is 'True'.
+Metoda de prevenire a impasului este alocarea controlata de resurse.
+The correct answer is 'True'.
+Sistemul de fișiere face parte din nucleu.
+The correct answer is 'False'.
+Prin comanda cat este afisat continutul unui fisier cu posibilitatea ca utilizatorul sa se plimbe in sus sau in jos in fisierul respectiv.
+The correct answer is 'False'.
+stdout=2.
+The correct answer is 'False'.
+In shell, folosind \ evit semnificatia aparte a unui anumit caracter.
+The correct answer is 'True'.
+Secventa de instructiuni: <br> $ ls<br>fis<br>$ mv fis fis_new<br> $ ls<br> va afisa fis
+The correct answer is 'False'.
+sed '1,10 instructiune' fis - executa instructiune asupra liniilor de la 0 la 10.
+The correct answer is 'False'.
+Optiunea "-M" pentru comanda "sort" compara numele de luni , ex: "AUG<sep"< div=""><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q174388:7_answer" value="1" id="q174388:7_answertrue" disabled="disabled" checked="checked"><label for="q174388:7_answertrue">True</label> <img src="https://moodle.cs.ubbcluj.ro/theme/image.php/clean/core/1475422350/i/grade_correct" alt="Correct" class="questioncorrectnessicon"></div><div class="r1"><input type="radio" name="q174388:7_answer" value="0" id="q174388:7_answerfalse" disabled="disabled"><label for="q174388:7_answerfalse">False</label> </div></div></div></sep"<>
+The correct answer is 'True'.
